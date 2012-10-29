@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">UpdateListViewTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_update_list_view_example">UpdateListViewExample</string>
+    <string name="switchFlowers">Switch Flowers</string>
+
+</resources>
